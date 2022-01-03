@@ -1,3 +1,8 @@
+
+# Meu Token 
+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
+
+
 # PARA INICIAR UMA LINHA DO TEMPO OU SEJA UM REPOSITÓRIO
 UTILIZAMOS => GIT INIT
 
@@ -170,8 +175,15 @@ ao utilizar esse comando a branch que vc direcionou será deletada
 # O proximo passo é adionar o git na nuvem ou seja no github
 # para fazer isso ultilizamos os seguintes comandos 
 
-=> git remote add origin https://github.com/samuelcpr/Aula-git.git
-=> git push -u origin main
+git remote add origin https://github.com/samuelcpr/Aula-git.git
+git branch -M master
+git push -u origin master
+
+# utilizando o comando git push podemos enviar os arquivos para a nuvem github
+=> git push 
+
+# para configurar o git 
+
 
 
 
