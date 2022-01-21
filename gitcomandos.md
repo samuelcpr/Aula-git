@@ -183,11 +183,10 @@ git push -u origin master
 => git push 
 
 # para configurar o git 
+ 
 
-
-
-
-
+# traz atualizações da nuvem
+git pull 
 
 
 
